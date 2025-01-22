@@ -4,4 +4,4 @@ console.log(div);
 const titulo = document.getElementsByClassName('title');
 console.log(titulo);
 
-titulo[2].innerHTML = 'Jose da Silva'
+titulo[2].innerHTML = 'Jose da silva'
